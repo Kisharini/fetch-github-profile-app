@@ -11,5 +11,4 @@ This is a simple web application used to fetch the profile details of a Github u
 
 ## 📦 Installation
 Clone the repo and install dependencies:
-git clone https://github.com/Kisharini/todo-app.git
-cd todo-app
+git clone https://github.com/Kisharini/fetch-github-profile-app.git
