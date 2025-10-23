@@ -6,7 +6,7 @@ This is a simple web application used to fetch the profile details of a Github u
 - View the full profile of the user in Github 
 
 ## 📸 Demo / Preview
-[Live Demo](https://kisharini.github.io/todo-app/)
+[Live Demo](https://kisharini.github.io/fetch-github-profile-app/)
 [Preview Screenshot](image.png)
 
 ## 📦 Installation
